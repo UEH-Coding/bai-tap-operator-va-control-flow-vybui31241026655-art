@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\bai-tap-operator-va-control-flow-vybui31241026655-art\obj\Debug\net9.0\bai-tap-operator-va-control-flow-vybui31241026655-art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\bai-tap-operator-va-control-flow-vybui31241026655-art\obj\Debug\net9.0\bai-tap-operator-va-control-flow-vybui31241026655-art.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\bai-tap-operator-va-control-flow-vybui31241026655-art\obj\Debug\net9.0\bai-tap-operator-va-control-flow-vybui31241026655-art.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\bai-tap-operator-va-control-flow-vybui31241026655-art\obj\Debug\net9.0\bai-tap-operator-va-control-flow-vybui31241026655-art.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\bai-tap-operator-va-control-flow-vybui31241026655-art\obj\Debug\net9.0\bai-tap-operator-va-control-flow-vybui31241026655-art.sourcelink.json
